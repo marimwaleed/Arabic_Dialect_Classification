@@ -13,4 +13,8 @@ These gates can learn which data in a sequence is important to keep or throw awa
 Ok, so by the end of this post you should have a solid understanding of why LSTM’s and GRU’s are good at processing long sequences. I am going to approach this with intuitive explanations and illustrations and avoid as much math as possible.
 ![LSTM-Vs-GRU-Network-Which-Has-better-Performance](https://user-images.githubusercontent.com/85671264/158656777-f39c35e5-88ad-4ae3-935c-33af84f2d775.png)
 
+After training I deployment it localy using Flask API and display it at UI designed by HTML,CSS,javascrit and bootstrap.
+![screencapture-8f42-35-236-198-90-ngrok-io-predict-2022-03-16-18_39_41](https://user-images.githubusercontent.com/85671264/158657400-7742830d-8aae-4e7a-839e-9330b6918a24.png)
+
+
 
